@@ -16,7 +16,7 @@ header {
 	transition: .5s;
 }
 .menubar ul li a:hover{
-	color: #67D8EF !important;
+	    color: #ffffff !important;
 }
 /*header end*/
 /*slider start*/
@@ -48,7 +48,7 @@ header {
 	transition: .5s;
 }
 .inspiration ul li a:hover i{
-	color: #67D8EF;
+	    color: #ffffff;
 }
 .c-indicators{
     margin: 0px 0px -70px 0px;
@@ -127,7 +127,7 @@ header {
     transition: .5s;
 }
 .yellow:hover{
-	color: #67D8EF;
+	background-color: #a28e04;
 }
 .icons {
     margin-top: 43px;
@@ -139,7 +139,7 @@ header {
     transition: .5s;
 }
 .icons ul li a:hover i{
-	color: #67D8EF;
+	color: #a28e04;
 }
 /*contact end*/
 /*footer start*/
